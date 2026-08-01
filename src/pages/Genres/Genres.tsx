@@ -1,7 +1,7 @@
 const Genres = () => {
   return (
-    <div >
-      <h2>Genrest</h2>
+    <div>
+      <h2>Genrest asd</h2>
     </div>
   )
 }
